@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Mini::Bootstrap::Rails::VERSION
   s.authors     = ["Camel song"]
   s.email       = ["neosoyn@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/camelsong/mini-bootstrap-rails"
   s.summary     = %q{A pure gem just adds bootstrap to your Rails project.}
   s.description = %q{A pure gem just adds bootstrap to your Rails project.}
 
