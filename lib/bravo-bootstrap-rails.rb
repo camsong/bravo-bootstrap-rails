@@ -1,6 +1,6 @@
-require "mini-bootstrap-rails/version"
+require "bravo-bootstrap-rails/version"
 
-module Mini
+module Bravo
   module Bootstrap
     module Rails
       class Engine < ::Rails::Engine

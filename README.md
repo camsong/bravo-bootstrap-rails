@@ -1,4 +1,4 @@
-# Mini Bootstrap Rails
+# Bravo Bootstrap Rails
 
 A pure gem just adds bootstrap to your Rails project.
 currently support bootstrap 2.0 and Rails > 3.1
@@ -7,11 +7,11 @@ currently support bootstrap 2.0 and Rails > 3.1
 
 Include Bootstrap in Gemfile;
 
-    gem 'mini-bootstrap-rails'
+    gem 'bravo-bootstrap-rails'
 
 or you can install from latest build;
 
-    gem 'mini-bootstrap-rails', :git => 'http://github.com/camelsong/mini-bootstrap-rails.git'
+    gem 'bravo-bootstrap-rails', :git => 'http://github.com/camelsong/bravo-bootstrap-rails.git'
 
 You can run bundle from command line
 
