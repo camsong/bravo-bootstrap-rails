@@ -29,5 +29,5 @@ You have to require Bootstrap in your **app/assets/stylesheets/application.css**
 
 You have to require Bootstrap in your **app/assets/javascripts/application.js**
 
-    //= require twitter/bootstrap
+    //= require bootstrap
 	// Your javascripts goes here
